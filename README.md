@@ -1,0 +1,2 @@
+# worker-stress-level
+workplace
